@@ -1,0 +1,7 @@
+gwosc==0.7.0
+gwpy==3.0.5
+pycbc==2.3.0
+matplotlib==3.8.4
+numpy==1.26.4
+seaborn==0.13.2
+pandas==2.2.2
